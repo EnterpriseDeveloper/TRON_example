@@ -1,0 +1,3 @@
+tronbox init
+tronbox compile -—compile-all
+source .env && tronbox migrate —-network shasta
